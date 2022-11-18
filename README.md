@@ -3,12 +3,6 @@
 
 I created a simple lorem ipsum generator using html, css and javascript. It creates a random text for input numbers of paragraphs entered by the user.
 
-
-## Creater
-
-- [@KaranChandekar](https://github.com/KaranChandekar)
-
-
 ## Languages
 
 - HTML
